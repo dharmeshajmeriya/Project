@@ -142,8 +142,6 @@ if __name__ == "__main__":
             print(f'{key.name} - {i.stock_at_location[key]}', end='  ')
         print('\n')
     print()
-
-
     print("***********************************************************************************")
 
     print("Updated location wise product stock")
@@ -153,8 +151,6 @@ if __name__ == "__main__":
             if i in p.stock_at_location:
                 print(f'{p.name}- {p.stock_at_location[i]}')
         print()
-
-
     '''
     tree = Tree()
 
