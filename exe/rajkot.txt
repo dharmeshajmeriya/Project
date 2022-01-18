@@ -1,0 +1,9 @@
+rajkot :-
+samsung - 500
+apple - 2000
+blackberry - 800
+nokia - 930
+
+stock movements :-
+samsung 200 from rajkot to mumbai
+nokia 300 from rajkot to delhi

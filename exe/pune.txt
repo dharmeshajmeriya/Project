@@ -1,0 +1,6 @@
+Pune :- 
+apple - 800
+blackberry - 1200
+
+stock movements :-
+apple 200 from pune to rajkot

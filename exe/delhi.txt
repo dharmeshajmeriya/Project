@@ -1,0 +1,11 @@
+location :- delhi
+
+samsung - 1000
+blackberry - 1100
+sony - 1200
+nokia - 560
+
+stock movements :-
+
+samsung 300 from delhi to ahmedabad
+sony 600 from delhi to rajkot

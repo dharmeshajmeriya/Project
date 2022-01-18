@@ -1,0 +1,9 @@
+Mumbai :-
+apple - 2200
+sony - 900
+nokia - 670
+
+stock movements :-
+
+apple 1000 from mumbai to delhi
+sony 400 from mumbai to ahmedabad
